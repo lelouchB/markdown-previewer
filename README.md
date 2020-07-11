@@ -1,4 +1,5 @@
 # Markdown Previewer
+![](https://www.freecodecamp.org/news/content/images/size/w2000/2020/06/markdown-previewer.png)
 Markdown Previewer made with React.js and Marked.js
 
 ## Tutorial availabe at [https://www.freecodecamp.org/news/how-to-build-a-markdown-previewer-with-react-js/](https://www.freecodecamp.org/news/how-to-build-a-markdown-previewer-with-react-js/)
